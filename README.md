@@ -1,2 +1,2 @@
 # Anybody-Free-RN
-Epic
+A project by Sanchit Sharma and Nikith Kaluwitharana
